@@ -1,0 +1,16 @@
+# Python & environment
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log          # runtime / debug logs
+
+# macOS & IDEs
+.DS_Store
+.idea/
+
+# SSH keys (never commit these!)
+key
+key.pub
