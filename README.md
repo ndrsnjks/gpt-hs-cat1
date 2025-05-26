@@ -57,9 +57,9 @@ OPENAI_API_KEY=your_openai_api_key_here
 HUBSPOT_CATEGORY_FIELD_NAMES=[category fields as set up in HubSpot]
 
 # OpenAI Message Templates
-OPENAI_SYSTEM_MESSAGE="..."
-OPENAI_USER_MESSAGE_TEMPLATE="..."
-```
+OPENAI_SYSTEM_MESSAGE=Your system message template here
+OPENAI_USER_MESSAGE_TEMPLATE=Your user message template here
+OPENAI_WEB_SEARCH_QUERY_TEMPLATE="Gather information about {company_query}. Specifically..."
 
 ## HubSpot Setup
 
